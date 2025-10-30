@@ -4,25 +4,4 @@
 
 ## Preface
 This repository is the sample of web application using golang.
-test code changes
-again changed
-done again
-change
-sample version
-version control
-version2
-update
-update2
-update3
-once
-once more
-here is an other updation performed
-here is an other updation performed
-another one changes
-changes
-what?
-why?
-what?
-hey iam back
-another
-changes
+this is practice based just!
